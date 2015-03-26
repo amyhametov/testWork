@@ -1,4 +1,1 @@
-testWork
-========
-
-Image Loader
+Only for tests
